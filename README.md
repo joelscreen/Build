@@ -1,14 +1,14 @@
 # Build
 
-##Description
+## Description
 Imerse yourself in a wonderful world where you Build, fight, and explore. Mobs can be friendly or not. Explore the world and 'Build'!
 
-##Keys
+## Keys
 W, A, S, D
 Space to jump
 
-##Note
+## Note
 the game in under development. This is the preclassic version. Updates are coming!
 
-##URL
+## URL
 https://github.com/joelscreen/Build.git
